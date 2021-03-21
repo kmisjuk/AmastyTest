@@ -1,0 +1,39 @@
+#wrapper {
+    width: 260px;
+    margin: 0 auto;
+}
+
+#wrapper h1 {
+    width: 100%;
+    text-align: center;
+}
+
+#wrapper input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#wrapper button {
+    display: block;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+#wrapper #answer {
+    display: none;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+
+#wrapper table {
+    width: 100%;
+    margin-top: 5px;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+
+#wrapper td {
+    border: 1px solid orange;
+    text-align: center;
+}
