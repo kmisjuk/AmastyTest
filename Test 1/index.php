@@ -1,6 +1,4 @@
 <?php
-header('Content-Type: text/html; charset=utf-8');
-
 include "AbstractChessmen.php";
 include "King.php";
 include "Queen.php";

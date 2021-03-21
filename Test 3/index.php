@@ -1,8 +1,7 @@
-<?php header('Content-Type: text/html; charset=utf-8');?>
 <html lang="ru">
     <head>
         <title>Банкомат</title>
-        <link href="css/style.css?<?=time()?>" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
         <div id="wrapper">
@@ -20,5 +19,5 @@
         </div>
     </body>
     <script src="js/jquery-3.6.0.min.js"></script>
-    <script src="js/script.js?<?=time()?>"></script>
+    <script src="js/script.js"></script>
 </html>
